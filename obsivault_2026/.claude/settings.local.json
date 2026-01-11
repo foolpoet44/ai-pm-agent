@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

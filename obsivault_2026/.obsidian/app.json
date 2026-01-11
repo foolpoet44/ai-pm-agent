@@ -1,0 +1,9 @@
+{
+  "livePreview": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "spellcheckLanguages": ["ko", "en-US"]
+}
