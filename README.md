@@ -6,6 +6,17 @@
 
 ---
 
+## 🔗 Related Projects
+
+이 프로젝트는 **AI PM Agent** 시스템에 집중합니다.
+
+**Strategic Planning 2025** (신년사 → 전략 → 실행계획 시스템)는 별도 디렉토리로 분리되었습니다:
+- 📂 위치: `../strategic-planning-2025/`
+- 🎯 목적: 회장/CEO/임원 신년사를 구조화하여 실행 가능한 업무로 자동 변환
+- 📊 형식: Obsidian Vault 기반 전략 관리 시스템
+
+---
+
 ## 📋 프로젝트 개요
 
 AI PM Agent는 Product Manager의 핵심 업무를 자동화하는 Claude Code 기반 시스템입니다. 아이디어 검증부터 PRD 작성, 유저스토리 생성까지 전체 제품 기획 프로세스를 지원합니다.
